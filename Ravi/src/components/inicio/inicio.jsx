@@ -35,11 +35,11 @@ function App() {
       resultado.setAttribute("src", `${Dado6}`)
     }
  }
- let resistencia = 14
- let mana = resistencia*7
- let forca = 5
+ let resistencia = 10
+ let mana = resistencia*5
+ let forca = 10
  let destreza = 10
- let controle=4
+ let controle=10
  let armadura = 0
  let MnI = 0
 

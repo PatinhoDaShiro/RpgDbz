@@ -2,7 +2,7 @@
   "name": "quizlol",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://PatinhoDaShiro.github.io/react-gh-pages",
+  "homepage": "https://PatinhoDaShiro.github.io/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",

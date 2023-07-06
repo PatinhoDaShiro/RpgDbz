@@ -1,0 +1,192 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(27, 27, 31);
+}
+.container{
+    max-width: 100%;
+}
+#raviicon{
+    border-radius: 60%;
+    width: 15rem;
+    height: 15rem;
+    border: 3px solid black;
+    margin-top: 4vh;
+}
+#pdls{
+    background-color: aliceblue;
+    margin-top: 5px;
+    border-radius: 20px;
+    border: 2px solid black;
+    font-weight: bold;  
+}
+#mni{
+    border-radius: 60%;
+    width: 15rem;
+    height: 15rem;
+    border: 3px solid black;
+    margin-top: 4vh;
+}
+#status{
+    background-color: aliceblue;
+    width: 12vw;
+    margin-top: 2vh;
+    border-radius: 10px;
+}
+#vida{
+display: inline-flex;
+
+}
+#pv{
+    color: green;
+    margin-bottom: 0;
+    margin-top: 1vh;
+    margin-right: 8px;
+}
+.pvn{
+    margin-top: 1vh;
+    width: 4vw;
+    height: 2.6vh;
+    border: none;
+    background-color: aliceblue;
+    text-align:center;
+}
+.pvn:focus{
+    border: none;
+    outline: 0;
+}
+#mana{
+    display: inline-flex;
+  }
+  #mp{
+      color: rgb(0, 70, 128);
+      margin-bottom: 1vh;
+  }
+  .mpn{
+      width: 4vw;
+      height: 2.6vh;
+      border: none;
+      background-color: aliceblue;
+      text-align:center;
+  }
+  #mpn:focus{
+      border: none;
+      outline: 0;
+  }
+  #atributos{
+    background-color: aliceblue;
+    width: 12vw;
+    margin-top: 2vh;
+    border-radius: 10px;
+  }
+  #tabela,tr{
+    text-align:left;
+    width: 150px;
+  }
+  #atributos{
+    padding-bottom: 0.5vh; 
+    padding-top: 0.5vh;
+}
+
+#meio{
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+}
+#dado{
+    width: 8vw;
+    height: 8vw;
+    margin-top: 3vh;
+    margin-bottom: 2vh;
+}
+#btnRoll{
+    padding: 3px 12px 3px 12px;
+    font-weight: bold;
+    background-color: aliceblue;
+    border: solid black 2px;
+    border-radius: 10px;
+}
+#lamina{
+    margin-top: 10vh;
+}
+.laminaforma{
+    width: 20vw;
+    height: 3vw;
+    border-radius: 10px;
+    font-weight: bold;
+    border: solid 2px black;
+}
+#Pforma{
+    color:aliceblue;
+    background-color: brown;
+    width: 68px;
+    height: 68px;
+    max-width: 68px;
+    max-height: 68px;
+    padding-top:1vw;
+   border-radius: 50%;
+   border: 2px solid black;
+    font-weight: bold;
+    
+
+}
+#Pforma,p{
+    margin: 0;
+}
+#Sforma{
+    color:aliceblue;
+    background-color: brown;
+   width: 68px;
+    height: 68px;
+    max-width: 68px;
+    max-height: 68px;
+    padding-top:1vw;
+   border-radius: 50%;
+   border: 2px solid black;
+    font-weight: bold;
+    text-align: center;
+
+}
+#Sforma,p{
+    margin: 0;
+}
+#Tforma{
+    color:aliceblue;
+    background-color: brown;
+   width: 68px;
+    height: 68px;
+    max-width: 68px;
+    max-height: 68px;
+    padding-top:1vw;
+   border-radius: 50%;
+   border: 2px solid black;
+    font-weight: bold;
+    
+
+}
+#Tforma,p{
+    margin: 0;
+}
+#Qforma{
+    color:aliceblue;
+    background-color: brown;
+   width: 68px;
+    height: 68px;
+    max-width: 68px;
+    max-height: 68px;
+    padding-top:1vw;
+   border-radius: 50%;
+   border: 2px solid black;
+    font-weight: bold;
+    
+
+}
+#Qforma,p{
+    margin: 0;
+}
+.sep{
+    margin-bottom: 1vh;
+}
